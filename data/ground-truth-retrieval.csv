@@ -1,0 +1,1042 @@
+id,questions
+0,What type of activity is a push-up exercise?
+0,What equipment is needed for push-ups?
+0,Which part of the body does the push-up exercise target?
+0,"What type of push-up is this, and what is its general description?"
+0,Which muscle groups are activated during push-ups?
+1,What type of exercise are Squats?
+1,What equipment is needed to perform Squats?
+1,What part of the body do Squats primarily target?
+1,What type of movement is involved in Squats?
+1,What muscle groups are engaged during Squats and how are they activated?
+2,What is the name of the exercise?
+2,What type of activity is Plank?
+2,What equipment is needed for this exercise?
+2,What part of the body does Plank target?
+2,Can you provide the instructions to perform Plank exercise?
+3,"What type of strength exercise involves using a barbell and targets the lower body with a pulling motion, primarily activating the glutes, hamstrings, and lower back?"
+3,What should be the distance between my feet when standing in the starting position for a deadlift exercise?
+3,What equipment is needed for performing the deadlift exercise?
+3,"What are the steps to lift the barbell in a deadlift, starting from the bending position?"
+3,Which muscle groups are mainly involved and get activated during the deadlift exercise?
+4,What is the name of the strength exercice that uses dumbbells and targets the upper body?
+4,What type of movement is involved in the bicep curls exercise?
+4,What body part is primarily targeted during this exercise?
+4,Which muscle groups does this exercise activate?
+4,How should I position my arms and elbows while performing bicep curls?
+5,"What type of activity is the Kettlebell Swing, is it more focused on cardio or strength training?"
+5,What equipment is needed to perform the Kettlebell Swing exercise?
+5,Which part of the body is primarily targeted during the Kettlebell Swing?
+5,"What type of movement is involved in the Kettlebell Swing, is it a push or a pull?"
+5,Which muscle groups are primarily activated during the Kettlebell Swing?
+6,What is the name of the exercise that focuses on pushing weights overhead using dumbbells?
+6,What type of physical activity is the Shoulder Press?
+6,What equipment is required for this exercise?
+6,Which part of the body does the Shoulder Press mainly target?
+6,What muscle groups are primarily activated during this exercise: Deltoids or Triceps?
+7,What type of activity is the Lat Pulldown exercise?
+7,What type of equipment is required for the Lat Pulldown?
+7,Which body part does the Lat Pulldown primarily focus on?
+7,What type of pull motion is involved in the Lat Pulldown?
+7,Which muscle groups are primarily activated during the Lat Pulldown?
+8,What is the name of the exercise that focuses on stretching the hamstrings using bodyweight?
+8,What type of activity is the Hamstring Stretch?
+8,What equipment is required for the Hamstring Stretch?
+8,Which part of the body does the Hamstring Stretch target?
+8,"How should I perform the Hamstring Stretch, including the leg with the elevated heel?"
+9,What type of exercise are Jumping Jacks?
+9,What equipment is needed for Jumping Jacks?
+9,Which parts of the body are mainly involved in Jumping Jacks?
+9,What type of movement is performed during Jumping Jacks?
+9,Which muscle groups are activated while doing Jumping Jacks?
+10,What type of exercise is a Bench Press?
+10,What equipment is needed for a Bench Press?
+10,Which part of the body does the Bench Press target?
+10,What type of push movement is the Bench Press?
+10,Which muscle groups does the Bench Press activate?
+11,What type of activity is the Lunges exercise?
+11,What type of equipment is required for the Lunges exercise?
+11,Which body part does the Lunges exercise target?
+11,What type of movement is involved in the Lunges exercise?
+11,Which muscle groups are activated during the Lunges exercise?
+12,What type of strength activity is a Pull-Up?
+12,What equipment is needed for Pull-Ups?
+12,Which part of the body does the Pull-Up exercise?
+12,What type of movement is involved in Pull-Ups?
+12,What muscle groups are activated during Pull-Ups?
+13,What is the name of the exercise that works the Core using bodyweight with a pushing motion?
+13,Is Mountain Climbers considered a Cardio or Strength activity?
+13,"What muscle groups are activated during Mountain Climbers, including the one in the hip?"
+13,What is the starting position for Mountain Climbers and how do I alternate my knees?
+13,"Which type of exercise is Mountain Climbers, a plank variation or a leg exercise?"
+14,What type of activity is the Leg Raises exercise?
+14,What type of equipment is required for the Leg Raises exercise?
+14,Which part of the body does the Leg Raises exercise target?
+14,What type of strength training is the Leg Raises exercise?
+14,Which muscle groups are activated during the Leg Raises exercise?
+15,What type of exercise is a Tricep Dip?
+15,On what type of equipment is this exercise performed?
+15,Which part of the body does this exercise target?
+15,What type of push movement is involved in Tricep Dips?
+15,What muscle groups are primarily activated during this exercise?
+16,What is the name of the exercise that targets the core region using bodyweight?
+16,What type of activity is the Russian Twists exercise?
+16,Which specific muscles will be activated while doing Russian Twists?
+16,"What is the correct position for the Russian Twists exercise, including knee position and back posture?"
+16,What should I do with my hands while twisting my torso during the Russian Twists exercise?
+17,"What type of exercise are Burpees, are they Cardio or Strength?"
+17,What equipment do I need to perform Burpees?
+17,What body part(s) are primarily involved in Burpees?
+17,Which muscle groups are activated during Burpees?
+17,What are the step-by-step instructions to correctly perform Burpees?
+18,What type of exercise is Dumbbell Rows?
+18,What equipment is needed for Dumbbell Rows?
+18,Which part of the body does Dumbbell Rows target?
+18,What type of movement is involved in Dumbbell Rows?
+18,Which muscle groups are activated during Dumbbell Rows?
+19,What exercise is called Goblet Squats and what type of activity is it?
+19,What equipment is needed for Goblet Squats?
+19,What part of the body does Goblet Squats primarily target?
+19,"What type of movement is Goblet Squats, push or pull?"
+19,What are the steps to perform Goblet Squats correctly?
+20,What is the name of the exercise that targets the glutes and hamstrings?
+20,What type of activity is the Glute Bridge?
+20,What equipment is needed for this exercise?
+20,Which part of the body does the Glute Bridge focus on?
+20,What type of motion is involved in the Glute Bridge?
+20,What are the steps to perform the Glute Bridge correctly?
+21,What is the name of the exercise that targets the triceps using dumbbells?
+21,What type of activity is the Overhead Tricep Extension?
+21,What equipment do I need to perform this exercise?
+21,Which part of the body does this exercise primarily focus on?
+21,Can you provide a detailed step-by-step instruction of how to properly do the Overhead Tricep Extension?
+22,What is the name of the exercise that focuses on strengthening my core using only my body weight?
+22,What type of activity is a Side Plank?
+22,What body part does a Side Plank primarily target?
+22,"What is the type of this exercise, hold or repetition?"
+22,"Which muscle groups, specifically, does a Side Plank activate?"
+23,What is the name of the exercise that focuses on using a cable machine?
+23,What type of activity is Cable Flyes classified as?
+23,What equipment is needed to perform Cable Flyes?
+23,Which part of the body does this exercise primarily target?
+23,What movement should I do with my arms to complete this exercise?
+24,What type of activity is a Step-Up exercise?
+24,What type of equipment is required for a Step-Up exercise?
+24,Which body part is primarily targeted in a Step-Up exercise?
+24,What is the movement type of a Step-Up exercise?
+24,Which muscle groups are activated during a Step-Up exercise?
+25,What exercise should I perform to primarily work out my Latissimus Dorsi and Biceps?
+25,What type of activity is Barbell Rows categorized as?
+25,What equipment is required for this exercise?
+25,Which part of the body does Barbell Rows mainly target?
+25,"What is the correct form for performing Barbell Rows, including the starting position and movement of the barbell?"
+26,What specific exercise targets the upper body using dumbbells?
+26,What type of activity is the Chest Press?
+26,Which muscle groups does the Chest Press primarily activate?
+26,How should I position myself to perform the Chest Press?
+26,What is the correct motion for performing the Chest Press?
+27,What exercise should I do that is both cardio and strength focused and only requires bodyweight?
+27,Which body part of mine will be primarily worked during box jumps?
+27,What type of movement is involved in box jumps?
+27,Which muscle groups will benefit from doing box jumps?
+27,"What is the correct way to perform a box jump, including how to land and descend?"
+28,What type of activity is the Hanging Leg Raises exercise?
+28,What type of equipment is needed for Hanging Leg Raises?
+28,What body part does the Hanging Leg Raises exercise target?
+28,What type of strength training is involved in Hanging Leg Raises?
+28,Which muscle groups are activated during the Hanging Leg Raises exercise?
+29,What is the name of the exercise that requires me to hold heavy dumbbells at my sides and walk while maintaining a straight posture?
+29,Is Farmer's Walk considered a strength or cardio activity?
+29,What type of equipment do I need for the Farmer's Walk exercise?
+29,Which body part is primarily engaged during the Farmer's Walk exercise?
+29,What muscle groups are activated when performing the Farmer's Walk exercise?
+30,What is the name of the exercise that focuses on raising the heels?
+30,What type of activity is Calf Raises categorized as?
+30,"What equipment, if any, is needed for this exercise?"
+30,Which part of the body does this exercise mainly target?
+30,What is the motion involved in Calf Raises: pushing or pulling?
+31,"What is the name of the exercise that works the deltoids, forearms, and core?"
+31,"What type of activity is Battle Ropes, is it Cardio or Strength?"
+31,What equipment is needed to perform this exercise?
+31,Which body part does this exercise primarily target?
+31,What are the instructions to correctly perform the Battle Ropes exercise?
+32,What type of activity is the Medicine Ball Slam exercise?
+32,What equipment is needed for Medicine Ball Slams?
+32,Which body part is mainly targeted during this exercise?
+32,What type of movement is involved in Medicine Ball Slams?
+32,Which muscle groups will be activated while doing Medicine Ball Slams?
+33,What is the name of the exercise that targets the lower body using dumbbells?
+33,What type of activity is the Dumbbell Deadlift?
+33,What equipment is needed for this exercise?
+33,What movement should I perform while doing the Dumbbell Deadlift?
+33,Which muscle groups are primarily activated during this exercise?
+34,What type of exercise is a Push Press?
+34,What equipment is typically used for a Push Press?
+34,Which part of the body does a Push Press primarily focus on?
+34,What type of movement is involved in a Push Press?
+34,What muscle groups are activated during a Push Press?
+35,What type of exercise is Treadmill Run?
+35,What category of activity does Treadmill Run fall under?
+35,What equipment is required for Treadmill Run?
+35,Which body part is primarily targeted during Treadmill Run?
+35,What muscle groups are activated during Treadmill Run?
+36,What type of strength activity is the Incline Dumbbell Press?
+36,What equipment is needed for the Incline Dumbbell Press?
+36,Which part of the body does the Incline Dumbbell Press target?
+36,What type of push exercise is the Incline Dumbbell Press?
+36,Which muscle groups are activated during the Incline Dumbbell Press?
+37,What exercise should I perform using dumbbells for upper body strength?
+37,Which type of activity is Renegade Rows classified as?
+37,What specific equipment is needed for Renegade Rows?
+37,What part of the body does the Renegade Rows exercise focus on?
+37,Which muscle groups are activated when performing Renegade Rows?
+38,What is the name of the exercise that focuses on pushing a platform with my legs?
+38,What type of activity is the leg press classified as?
+38,What kind of equipment is required for this exercise?
+38,Which part of the body primarily benefits from this exercise?
+38,What muscle groups are targeted during the leg press exercise?
+39,What is the name of the exercise that focuses on pushing a cable handle downwards until my arms are fully extended?
+39,What type of physical activity is the Cable Tricep Pushdown exercise classified as?
+39,What equipment would I need to perform the Cable Tricep Pushdown exercise?
+39,Which part of the body does the Cable Tricep Pushdown exercise primarily target?
+39,What muscle groups are activated when performing the Cable Tricep Pushdown exercise?
+40,What type of exercise is a Single-Leg Deadlift?
+40,What kind of equipment is needed for Single-Leg Deadlift?
+40,Which part of the body does the Single-Leg Deadlift primarily target?
+40,What type of movement is involved in Single-Leg Deadlift?
+40,Which muscle groups are activated during Single-Leg Deadlift?
+41,What strength exercise should I do that uses bodyweight and targets the upper body?
+41,Which type of pull exercise activates the Latissimus Dorsi and Biceps?
+41,How can I perform an Inverted Row correctly?
+41,What equipment do I need to do Inverted Rows?
+41,What muscle groups are primarily worked during Inverted Rows?
+42,What exercise is named Pallof Press?
+42,What type of activity is the Pallof Press?
+42,What equipment is needed for the Pallof Press?
+42,What part of the body does the Pallof Press target?
+42,Which muscles are activated during the Pallof Press?
+42,How should I position myself in relation to the cable machine for the Pallof Press?
+42,What is the main movement I should do during the Pallof Press?
+42,What resistance should I resist during the Pallof Press?
+43,What is the name of the exercise that focuses on lower body and uses a kettlebell?
+43,What type of activity is the Kettlebell Deadlift?
+43,What equipment is needed for this exercise?
+43,Which body parts will be mainly targeted during the Kettlebell Deadlift?
+43,What is the movement I need to perform to lift the kettlebell off the ground in this exercise?
+44,What strength exercise can I do using only my bodyweight and targeting my core?
+44,Which type of equipment is required for Hanging Knee Tucks?
+44,What body part does the Hanging Knee Tucks exercise focus on?
+44,What is the movement type for this exercise?
+44,Which muscle groups does the Hanging Knee Tucks exercise activate?
+45,What is the name of the exercise that focuses on the upper body using a resistance band?
+45,What type of activity is the Resistance Band Pull Aparts exercise?
+45,What equipment is required for the Resistance Band Pull Aparts exercise?
+45,Which body part does the Resistance Band Pull Aparts exercise primarily target?
+45,"What type of motion is involved in the Resistance Band Pull Aparts exercise, and which muscle groups does it activate?"
+46,What type of activity are Bulgarian Split Squats?
+46,What equipment is needed for Bulgarian Split Squats?
+46,Which part of the body do Bulgarian Split Squats focus on?
+46,What type of movement is involved in Bulgarian Split Squats?
+46,What muscle groups are activated during Bulgarian Split Squats?
+47,What is the name of the exercise that focuses on the upper body using dumbbells?
+47,What type of activity is the Seated Shoulder Press?
+47,What equipment is needed for this exercise?
+47,"Which muscle groups, specifically, are activated during the Seated Shoulder Press?"
+47,How should I position myself and the dumbbells at the beginning of the exercise?
+48,What type of activity is an Incline Push-Up?
+48,What type of equipment is needed for Incline Push-Ups?
+48,What part of the body does an Incline Push-Up target?
+48,What type of push motion is involved in Incline Push-Ups?
+48,What muscle groups are activated during Incline Push-Ups?
+49,What is the name of the exercise that targets my glutes and hamstrings using a barbell?
+49,What type of activity is Hip Thrusts?
+49,What equipment do I need for this exercise?
+49,Which part of my body will primarily benefit from Hip Thrusts?
+49,How should I perform Hip Thrusts to effectively work my glutes?
+50,What is the name of the exercise that focuses on upper body using a barbell with an underhand grip in a pulling motion?
+50,What type of activity is the Barbell Curl exercise classified as?
+50,What equipment is required to perform the Barbell Curl exercise?
+50,Which part of the body does the Barbell Curl exercise primarily target?
+50,"What muscle groups are activated during the performance of the Barbell Curl exercise, and what movement is involved in the instructions?"
+51,What exercise should I use a cable machine for?
+51,Which part of my body will the Cable Row primarily target?
+51,What type of strength exercise is the Cable Row?
+51,Which muscle groups will be activated during the Cable Row?
+51,What are the steps to properly perform a Cable Row?
+52,What type of exercise is Plank Shoulder Taps?
+52,What equipment is needed for Plank Shoulder Taps?
+52,Which part of the body is targeted during Plank Shoulder Taps?
+52,What is the type of the Plank Shoulder Taps exercise?
+52,What muscle groups are activated during Plank Shoulder Taps and how should the exercise be performed?
+53,What is the name of the exercise that focuses on using dumbbells?
+53,What type of physical activity is the Dumbbell Lateral Raise categorized as?
+53,What equipment is required for the Dumbbell Lateral Raise exercise?
+53,Which part of the body does the Dumbbell Lateral Raise primarily target?
+53,What type of movement is involved in the Dumbbell Lateral Raise?
+53,Which muscle groups are activated during the Dumbbell Lateral Raise?
+54,What is the name of the exercise that focuses on lower body strength and mobility using bodyweight?
+54,What is the type of activity for the exercise that involves leaning against a wall with feet shoulder-width apart and holding a position?
+54,"What equipment, if any, is required for the wall sit exercise?"
+54,Which body part does the wall sit exercise primarily target?
+54,What type of muscle activation does the wall sit exercise involve and what are the specific muscle groups?
+54,What are the step-by-step instructions for performing the wall sit exercise?
+55,What type of activity is the Spider Plank?
+55,What equipment is needed for the Spider Plank?
+55,What part of the body does the Spider Plank target?
+55,What type of exercise is the Spider Plank?
+55,Which muscle groups are activated during the Spider Plank and how should it be performed?
+56,What is the name of the exercise?
+56,What type of activity is the Sumo Deadlift categorized as?
+56,What equipment is needed for this exercise?
+56,Which part of the body does the Sumo Deadlift mainly target?
+56,What type of movement is involved in this exercise?
+56,What muscle groups are activated during the Sumo Deadlift?
+56,How should I position my feet at the starting position?
+56,Where should I grip the barbell?
+56,What is the sequence of movements to lift the barbell?
+57,What is the name of the strength exercise that focuses on the upper body and uses a dumbbell?
+57,Which type of activity is the Single Arm Dumbbell Row categorized as?
+57,What equipment do I need to perform the Single Arm Dumbbell Row exercise?
+57,What part of the body does the Single Arm Dumbbell Row mainly target?
+57,Which muscle groups are activated when performing the Single Arm Dumbbell Row?
+58,What type of exercise is the Kettlebell Clean and Press?
+58,What equipment is needed for the Kettlebell Clean and Press?
+58,Which parts of the body does the Kettlebell Clean and Press primarily focus on?
+58,What type of movement is involved in the Kettlebell Clean and Press?
+58,What are the step-by-step instructions for performing the Kettlebell Clean and Press?
+59,What is the name of the exercise that falls under the cardio category and requires a jump rope?
+59,What type of equipment is needed for this exercise?
+59,Which body part(s) does this exercise target?
+59,What type of push motion is involved in this exercise?
+59,Which muscle groups are primarily activated during this exercise?
+60,What type of exercise is a Side Lunge?
+60,What category of activity does the Side Lunge belong to?
+60,What type of equipment is needed for a Side Lunge?
+60,Which part of the body does the Side Lunge target?
+60,What kind of motion is involved in a Side Lunge?
+61,What is the name of the exercise that targets the pectorals using a machine?
+61,What type of activity is the Machine Chest Fly
+61,What equipment is needed for this exercise
+61,Which part of the body does the Machine Chest Fly focus on
+61,What type of motion is involved in the Machine Chest Fly and which muscle groups does it activate
+62,What is the name of the exercise that targets the lower body using a machine?
+62,What type of activity is the hack squat exercise?
+62,What type of equipment is required for the hack squat exercise?
+62,Which muscle groups are primarily activated during the hack squat exercise?
+62,What are the step-by-step instructions for performing the hack squat exercise?
+63,What type of activity are Decline Push-Ups classified as?
+63,What equipment is required to perform Decline Push-Ups?
+63,Which part of the body do Decline Push-Ups primarily focus on?
+63,What type of push-up are Decline Push-Ups considered to be?
+63,What muscle groups are activated when performing Decline Push-Ups?
+64,What type of exercise is a Band Face Pull?
+64,What equipment is needed for a Band Face Pull?
+64,Which part of the body does a Band Face Pull target?
+64,What is the main type of movement in a Band Face Pull?
+64,What muscle groups are activated during a Band Face Pull?
+65,What is the name of the exercise that targets the core using an ab wheel?
+65,What type of activity is the Ab Wheel Rollout?
+65,What equipment is required to perform the Ab Wheel Rollout?
+65,Which body part does the Ab Wheel Rollout primarily focus on?
+65,What muscle groups are activated during the Ab Wheel Rollout and how should they be engaged while performing the exercise?
+66,What exercise is called 'Side Leg Raises' and what type of activity is it?
+66,What equipment is needed to perform 'Side Leg Raises'?
+66,Which part of the body does 'Side Leg Raises' target?
+66,What type of exercise is 'Side Leg Raises'?
+66,What muscle groups are activated during 'Side Leg Raises' and what are the instructions to do it?
+67,"What is the name of the exercise that focuses on Strength and uses a Barbell to train the Lower Body with a Pull motion, primarily activating the Hamstrings, Glutes, and Lower Back?"
+67,What type of activity is the Romanian Deadlift exercise classified as?
+67,What equipment is required for the Romanian Deadlift exercise?
+67,Which body part does the Romanian Deadlift mainly target?
+67,"How do I perform the Romanian Deadlift exercise, including holding the barbell and the motion of bending at the hips to lower the bar down the legs before returning to standing?"
+68,What is the name of the exercise that targets the upper body using dumbbells?
+68,What type of activity is the Arnold Press?
+68,What equipment is required to perform the Arnold Press exercise?
+68,"What muscle groups, specifically the deltoids and triceps, are activated during this exercise?"
+68,How should I position and rotate my arms while pressing the weights during the Arnold Press?
+69,What is the name of the exercise that focuses on upper body push strength using a barbell?
+69,What type of physical activity is the Landmine Press categorized as?
+69,What equipment is required to perform the Landmine Press exercise?
+69,Which part of the body does the Landmine Press primarily target?
+69,What muscle groups are activated during the Landmine Press exercise?
+70,What is the name of the exercise that focuses on the lower body using bodyweight?
+70,"What type of activity is Tuck Jumps, is it cardio or strength?"
+70,What muscle groups are primarily activated during this exercise?
+70,"What is the correct form for performing Tuck Jumps, step by step?"
+70,What is the key point to remember while landing after a tuck jump?
+71,What type of exercise is Windshield Wipers?
+71,What equipment is needed for Windshield Wipers?
+71,Which part of the body does Windshield Wipers target?
+71,What type of strength training is Windshield Wipers?
+71,What muscle groups are activated during Windshield Wipers?
+73,What type of activity is a Sled Push?
+73,What equipment is needed for a Sled Push?
+73,Which body part is primarily targeted during a Sled Push?
+73,What type of movement is involved in a Sled Push?
+73,Which muscle groups are activated during a Sled Push?
+74,What is the name of the exercise that focuses on my upper body using a cable machine?
+74,What type of activity is the Cable Bicep Curl classified as?
+74,What specific part of the body does the Cable Bicep Curl target?
+74,What movement pattern should I follow while doing this exercise?
+74,Which muscle groups does the Cable Bicep Curl mainly activate during the exercise?
+75,What is the name of the exercise that focuses on using dumbbells?
+75,What type of activity is the Dumbbell Kickback classified as?
+75,What equipment is required for this exercise?
+75,Which part of the body does the Dumbbell Kickback primarily target?
+75,Which muscle group in the upper body does this exercise activate the most?
+77,What is the name of the exercise that involves running in place and driving my knees towards my chest?
+77,What type of activity is High Knees categorized as?
+77,Do I need any equipment to perform High Knees?
+77,Which part of my body will be primarily involved in High Knees?
+77,What muscle groups will be activated when doing High Knees?
+78,What type of exercise is Sledgehammer Slams?
+78,What equipment is needed for Sledgehammer Slams?
+78,Which part of the body does Sledgehammer Slams primarily target?
+78,What type of movement is involved in Sledgehammer Slams?
+78,Which muscle groups are primarily activated during Sledgehammer Slams?
+79,What is the name of the exercise that focuses on lower body strength using only bodyweight?
+79,What type of activity is Lateral Step-Ups?
+79,"What equipment, if any, is needed for Lateral Step-Ups?"
+79,Which muscle groups are primarily activated during Lateral Step-Ups?
+79,What are the instructions for performing Lateral Step-Ups?
+80,What is the name of the exercise that targets the chest muscles using a cable machine?
+80,What type of activity is the Cable Chest Press?
+80,What equipment is needed to perform the Cable Chest Press?
+80,Which part of the body does the Cable Chest Press primarily focus on?
+80,"What muscles are activated during the Cable Chest Press, besides the chest?"
+81,What exercise is named TRX Rows and what type of activity is it?
+81,What equipment is needed for TRX Rows?
+81,Which part of the body does TRX Rows mainly target?
+81,What type of movement is involved in TRX Rows?
+81,What muscle groups are primarily activated during TRX Rows?
+82,What exercise targets my core using a medicine ball?
+82,What type of activity is the Medicine Ball Russian Twists?
+82,Which part of my body will the Medicine Ball Russian Twists primarily work?
+82,What movement is involved in the Medicine Ball Russian Twists?
+82,Which specific muscle groups will benefit from the Medicine Ball Russian Twists?
+83,What type of activity is the Pendlay Row?
+83,What equipment is needed for the Pendlay Row?
+83,Which part of the body does the Pendlay Row mainly target?
+83,What type of movement is performed during the Pendlay Row?
+83,What muscle groups does the Pendlay Row activate?
+84,What type of exercise is Side Plank with Leg Lift?
+84,What equipment is needed for Side Plank with Leg Lift?
+84,What part of the body does Side Plank with Leg Lift target?
+84,How should I perform Side Plank with Leg Lift (type of exercise)?
+84,Which muscle groups are activated during Side Plank with Leg Lift?
+85,What exercise should I use the hip abduction machine for?
+85,What type of activity is a hip abduction?
+85,What equipment do I need for this exercise?
+85,What part of the body does a hip abduction primarily target?
+85,Which muscle groups are activated during a hip abduction?
+86,What is the name of the exercise that targets the deltoids using dumbbells?
+86,What type of activity is the Dumbbell Front Raise?
+86,What equipment is needed for this exercise?
+86,Which part of the body does the Dumbbell Front Raise primarily work?
+86,What is the correct starting position for the Dumbbell Front Raise?
+87,What type of strength exercise involves using an underhand grip to pull my body up until my chin is above a bar?
+87,What equipment would I typically need to perform Chin-Ups?
+87,Which part of my body is primarily targeted during this exercise?
+87,What type of movement is involved in Chin-Ups?
+87,Which muscle groups are activated when I do Chin-Ups?
+88,What exercise is called Box Squat and what type of activity is it?
+88,What equipment is needed for the Box Squat exercise?
+88,What part of the body does the Box Squat workout?
+88,What type of motion is involved in the Box Squat exercise?
+88,What muscle groups are primarily activated during the Box Squat?
+89,What type of activity is the Battle Rope Waves exercise?
+89,What equipment is needed for the Battle Rope Waves exercise?
+89,Which body part does the Battle Rope Waves exercise focus on?
+89,What type of movement does this exercise involve?
+89,Which muscle groups does the Battle Rope Waves exercise activate?
+90,What type of activity is a Zercher Squat?
+90,What equipment is needed for a Zercher Squat?
+90,Which part of the body does the Zercher Squat target?
+90,What type of strength training is the Zercher Squat?
+90,What muscle groups are activated during a Zercher Squat and how should the exercise be performed?
+91,What type of strength exercise are Walking Lunges?
+91,What equipment is needed for Walking Lunges?
+91,What part of the body do Walking Lunges target?
+91,What type of motion is involved in Walking Lunges?
+91,Which muscle groups are activated during Walking Lunges?
+92,What exercise is called Kettlebell Snatch and what type of activity is it?
+92,What equipment do I need to perform Kettlebell Snatch?
+92,Which body part does Kettlebell Snatch target?
+92,What type of movement is required in Kettlebell Snatch?
+92,What muscle groups does Kettlebell Snatch primarily activate?
+93,What is the name of the exercise that focuses on lifting my hips towards the ceiling with one foot on the ground and the other leg extended?
+93,What type of activity is the Single-Leg Glute Bridge
+93,"What equipment, if any, do I need for this exercise"
+93,Which part of the body does the Single-Leg Glute Bridge primarily target
+93,What kind of movement is involved in the Single-Leg Glute Bridge exercise
+93,Which muscle groups are primarily activated during the Single-Leg Glute Bridge
+94,What type of strength exercise is called TRX Push-Ups?
+94,What equipment is needed to perform TRX Push-Ups?
+94,Which part of the body does TRX Push-Ups mainly target?
+94,What type of push movement is involved in TRX Push-Ups?
+94,What muscle groups are primarily activated while doing TRX Push-Ups?
+95,What exercise is referred to as Machine Leg Curl?
+95,What type of activity is the Machine Leg Curl?
+95,What type of equipment is required for this exercise?
+95,What part of the body does the Machine Leg Curl target?
+95,What type of movement is involved in the Machine Leg Curl and what muscle groups does it activate?
+96,What exercise should I perform using an incline bench and a barbell?
+96,What type of activity is the Incline Bench Press?
+96,What equipment is required for the Incline Bench Press?
+96,Which part of the body does the Incline Bench Press primarily target?
+96,What muscle groups are activated during the Incline Bench Press?
+96,What are the steps to properly perform the Incline Bench Press?
+97,What exercise should I do to strengthen my lower body using a resistance band?
+97,What type of activity is Resistance Band Deadlift considered?
+97,What equipment do I need to perform Resistance Band Deadlift?
+97,Which body part does the Resistance Band Deadlift primarily target?
+97,How should I position myself and move to perform Resistance Band Deadlift?
+98,What exercise should I use a barbell for while lying on a decline bench?
+98,What type of activity involves the Decline Bench Press?
+98,What piece of equipment do I need for this exercise?
+98,Which part of my body does the Decline Bench Press target?
+98,What muscle groups will benefit from the Decline Bench Press?
+99,What type of activity is the Dumbbell Step-Up exercise?
+99,What equipment is needed for the Dumbbell Step-Up exercise?
+99,Which part of the body does the Dumbbell Step-Up exercise target?
+99,What type of movement is involved in the Dumbbell Step-Up exercise?
+99,Which muscle groups are activated during the Dumbbell Step-Up exercise?
+100,What is the name of the exercise that primarily targets the deltoids using a cable machine?
+100,What type of physical activity is the Cable Lateral Raise considered?
+100,What equipment is required for the Cable Lateral Raise exercise?
+100,Which part of the body does the Cable Lateral Raise mainly focus on?
+100,What is the correct movement for performing the Cable Lateral Raise?
+101,What type of exercise is a Reverse Lunge?
+101,What equipment do I need for a Reverse Lunge?
+101,Which part of the body does a Reverse Lunge target?
+101,What kind of movement is involved in a Reverse Lunge?
+101,Which muscle groups are activated during a Reverse Lunge?
+102,What is the name of the exercise that focuses on using bodyweight for strengthening the core with a hold type of activity?
+102,Which category of fitness activity does Toe Touches belong to?
+102,"What equipment, if any, is required to perform Toe Touches?"
+102,What part of the body primarily benefits from this exercise?
+102,What muscle groups are targeted during the Toe Touches exercise?
+103,What exercise should I use the leg extension machine for?
+103,What type of activity is the Machine Leg Extension?
+103,What equipment do I need for this exercise?
+103,Which part of the body does the Machine Leg Extension target?
+103,What type of movement is the Machine Leg Extension and what muscle groups does it activate?
+104,What strength exercise involves using a dumbbell and targets the upper body?
+104,What equipment is required for the Dumbbell Pullover exercise?
+104,Which part of the body does the Dumbbell Pullover mainly focus on?
+104,What type of motion is involved in the Dumbbell Pullover exercise?
+104,Which muscle groups are primarily activated during the Dumbbell Pullover?
+105,What is the name of the exercise that focuses on the upper body using a barbell?
+105,What type of activity is the Barbell Shrug categorized as?
+105,What equipment is required for the Barbell Shrug?
+105,Which specific body part is primarily targeted during this exercise?
+105,What is the movement that should be performed while doing Barbell Shrugs?
+106,What type of exercise is a T-Bar Row?
+106,What equipment is needed for a T-Bar Row?
+106,Which part of the body does a T-Bar Row target?
+106,What type of movement is involved in a T-Bar Row?
+106,What muscle groups are primarily activated during a T-Bar Row?
+107,What type of exercise is a Bulgarian Deadlift?
+107,What equipment is needed for a Bulgarian Deadlift?
+107,Which part of the body does a Bulgarian Deadlift primarily target?
+107,What type of motion is involved in a Bulgarian Deadlift?
+107,What muscle groups are activated during a Bulgarian Deadlift?
+108,What type of activity is a Pistol Squat?
+108,What type of equipment is needed for a Pistol Squat?
+108,What body part does a Pistol Squat target?
+108,What kind of movement is involved in a Pistol Squat?
+108,What muscle groups are activated during a Pistol Squat?
+109,What exercise should I use to primarily target my hamstrings?
+109,What type of activity is the Seated Leg Curl classified as?
+109,What equipment do I need for the Seated Leg Curl exercise?
+109,Which part of the body does the Seated Leg Curl mainly focus on?
+109,What is the correct motion for the Seated Leg Curl; where should I curl the pad towards?
+110,What exercise is called Russian Kettlebell Swing?
+110,Is Russian Kettlebell Swing a Cardio or Strength exercise?
+110,What equipment is needed for Russian Kettlebell Swing?
+110,What part of the body does Russian Kettlebell Swing target?
+110,What muscle groups are activated during Russian Kettlebell Swing?
+111,What is the name of the exercise that targets the upper body using dumbbells in a pulling motion?
+111,What type of activity is the Incline Dumbbell Curl?
+111,What equipment is required for this exercise?
+111,Which part of the body benefits from this exercise?
+111,What muscle groups are primarily activated during the Incline Dumbbell Curl?
+112,What type of exercise is a Decline Sit-Up?
+112,What equipment is needed to do Decline Sit-Ups?
+112,What part of the body does the Decline Sit-Up target?
+112,What type of strength training is involved in Decline Sit-Ups?
+112,What muscle groups are activated during Decline Sit-Ups and how should they move?
+113,What type of exercise is Side Plank Dips?
+113,What equipment is needed for Side Plank Dips?
+113,Which part of the body does Side Plank Dips target?
+113,What type of strength training is Side Plank Dips?
+113,What muscle groups are activated during Side Plank Dips and how should the exercise be performed?
+114,What is the name of the exercise that focuses on strength and involves using a kettlebell?
+114,Which part of the body is primarily targeted in the Single Arm Kettlebell Swing?
+114,What type of movement is required in this exercise?
+114,What muscle groups are mainly activated during the Single Arm Kettlebell Swing?
+114,"How should I correctly perform the Single Arm Kettlebell Swing, in terms of movement and hip drive?"
+115,What type of exercise are Jumping Squats?
+115,What equipment is needed for Jumping Squats?
+115,Which part of the body do Jumping Squats target?
+115,What type of movement is involved in Jumping Squats?
+115,Which muscle groups are activated during Jumping Squats?
+116,What is the name of the exercise that focuses on using a cable machine for an upper body push motion?
+116,What type of activity is the Cable Chest Fly categorized as?
+116,What equipment is required to perform the Cable Chest Fly exercise?
+116,Which part of the body does the Cable Chest Fly primarily target?
+116,Can you explain how to properly perform the Cable Chest Fly exercise?
+117,What specific exercise is being performed with Dumbbells that targets the Upper Body and activates the Triceps?
+117,"What type of activity is this exercise, Strength or Cardio?"
+117,What equipment is required for this exercise?
+117,Which body part is primarily targeted during this exercise?
+117,What is the motion that should be performed for this exercise?
+118,What is the name of the exercise that targets the hamstrings using a machine?
+118,What type of physical activity is the leg curl?
+118,What part of the body does the leg curl exercise?
+118,What is the movement direction of the leg curl exercise?
+118,What muscle groups are primarily activated during a leg curl?
+119,What type of activity is a One-Arm Push-Up?
+119,What type of equipment is needed for a One-Arm Push-Up?
+119,Which body part is primarily targeted in a One-Arm Push-Up?
+119,What type of push-up is a One-Arm Push-Up?
+119,What muscle groups are activated during a One-Arm Push-Up?
+120,What is the name of the exercise that targets the upper body using a machine?
+120,What type of activity is the machine shoulder press?
+120,What equipment is required for this exercise?
+120,"What muscle groups, specifically, are activated during the machine shoulder press?"
+120,"How do I properly perform the machine shoulder press, from sitting on the machine to extending my arms?"
+121,What is the name of the exercise that focuses on lower body strength using bodyweight without equipment?
+121,What type of activity is Sumo Squat classified as?
+121,"What equipment, if any, is required for Sumo Squat?"
+121,Which body part does the Sumo Squat primarily target?
+121,What muscle groups are activated during the Sumo Squat exercise?
+122,What type of exercise is Resistance Band Squat?
+122,What type of equipment is required for this exercise?
+122,Which part of the body does the Resistance Band Squat target?
+122,What kind of push motion is involved in this exercise?
+122,Which muscle groups are activated during the Resistance Band Squat?
+123,What type of strength exercise is a One-Legged Squat?
+123,What equipment is needed for a One-Legged Squat?
+123,What part of the body does a One-Legged Squat primarily target?
+123,What type of motion is involved in a One-Legged Squat?
+123,Which muscle groups are primarily activated during a One-Legged Squat?
+124,What is the name of the exercise that focuses on using a barbell in a landmine attachment for an upper body strength pulling motion?
+124,What type of physical activity is the Landmine Row categorized as?
+124,What equipment is required to perform the Landmine Row exercise?
+124,Which part of the body is primarily targeted during the Landmine Row exercise?
+124,"What muscle groups are mainly activated while performing the Landmine Row exercise, and what are their functions?"
+125,What type of activity is the Superman Exercise?
+125,What type of equipment is needed for the Superman Exercise?
+125,Which body part does the Superman Exercise target?
+125,Can you describe the type of movement involved in the Superman Exercise?
+125,Which muscle groups does the Superman Exercise activate?
+126,What strength exercise should I perform with dumbbells that targets the upper body and involves pushing motions?
+126,What equipment is needed for Dumbbell Flyes?
+126,Which part of the body does Dumbbell Flyes primarily focus on?
+126,"What type of exercise movement is Dumbbell Flyes, push or pull?"
+126,"What are the instructions for performing Dumbbell Flyes, including the starting position and the movement of the weights?"
+127,"What is the name of the exercise that targets the rear deltoids, trapezius, and rhomboids using dumbbells?"
+127,What type of activity is the Reverse Fly?
+127,What type of equipment is needed for this exercise?
+127,Which part of the body does the Reverse Fly primarily focus on?
+127,"What are the steps to perform the Reverse Fly, including the starting position and the movement of the dumbbells?"
+128,What is the name of the exercise that works the Glutes and Hamstrings?
+128,What type of activity is Cable Kickbacks?
+128,What equipment is needed for this exercise?
+128,Which part of the body does Cable Kickbacks target?
+128,How do I correctly perform Cable Kickbacks using a cable machine?
+129,What is the name of the exercise that focuses on using a kettlebell and involves a pushing movement?
+129,What type of physical activity is the Kettlebell Push Press classified as?
+129,What equipment is required for the Kettlebell Push Press?
+129,Which part of the body does the Kettlebell Push Press primarily target?
+129,What are the muscle groups mainly activated during the Kettlebell Push Press?
+129,"How do I correctly perform the Kettlebell Push Press, including the starting and ending positions?"
+130,What strength exercise should I perform that uses only bodyweight and targets the core?
+130,Which type of hold exercise targets the Rectus Abdominis and Hip Flexors?
+130,How should I position my body for the Dead Bug exercise?
+130,Which limbs should I lower towards the floor during the Dead Bug exercise?
+130,How should I maintain my back while lowering my limbs in the Dead Bug exercise?
+131,What exercise should I use the Smith Machine for?
+131,What type of activity is the Smith Machine Squat?
+131,What equipment do I need for this exercise?
+131,Which part of the body does the Smith Machine Squat target?
+131,What muscle groups are activated during this exercise and how should I perform it?
+132,"What is the name of the exercise that primarily targets the Glutes, Hamstrings, and Lower Back using a machine?"
+132,What type of activity is Reverse Hyperextension classified as?
+132,What part of the body does this exercise mainly focus on?
+132,What is the direction of the movement for Reverse Hyperextension?
+132,How should I position my body on the hyperextension bench to perform Reverse Hyperextension?
+133,What type of exercise is Landmine Twist?
+133,What equipment is needed for Landmine Twist?
+133,What part of the body does Landmine Twist target?
+133,What type of movement is involved in Landmine Twist?
+133,Which muscle groups are activated during Landmine Twist?
+134,What type of exercise is a Machine Row?
+134,What category of activity does the Machine Row fall under?
+134,What equipment is required for a Machine Row?
+134,What part of the body does the Machine Row primarily target?
+134,What muscle groups are activated during a Machine Row exercise?
+135,What exercise should I use the calf raise machine for?
+135,What type of activity is the Seated Calf Raise?
+135,What body part does the Seated Calf Raise target?
+135,Can you describe the correct form for performing Seated Calf Raises?
+135,Which muscle groups are primarily activated during Seated Calf Raises?
+136,What type of exercise is Kettlebell Windmill?
+136,What equipment is needed for Kettlebell Windmill?
+136,Which part of the body does Kettlebell Windmill target?
+136,What type of movement is involved in Kettlebell Windmill?
+136,Which muscle groups are activated during Kettlebell Windmill?
+137,What exercise should I perform using an incline bench and a barbell?
+137,What type of activity is the Incline Barbell Bench Press?
+137,What equipment is required for this exercise?
+137,Which body part does the Incline Barbell Bench Press primarily target?
+137,What muscle groups will be activated while doing this exercise?
+138,What strength exercise involves holding a kettlebell at chest level and squatting down like sitting in a chair?
+138,What type of equipment is required for the Kettlebell Goblet Squat?
+138,Which part of the body is primarily targeted during the Kettlebell Goblet Squat?
+138,"What type of movement is the Kettlebell Goblet Squat, push or pull?"
+138,What muscle groups are activated during the Kettlebell Goblet Squat exercise?
+139,"What exercise involves holding dumbbells at shoulder height, squatting down, pushing through the heels to stand up, and pressing the weights overhead?"
+139,Which type of activity is Dumbbell Thrusters classified as?
+139,What equipment is required for Dumbbell Thrusters?
+139,Which body part does the exercise of Dumbbell Thrusters target?
+139,Which muscle groups are activated during the Dumbbell Thrusters exercise?
+140,What exercise should I use the leg curl machine for?
+140,What type of activity is the Lying Leg Curl?
+140,What part of the body does the Lying Leg Curl target?
+140,What type of movement is involved in Lying Leg Curl?
+140,Which muscle groups are primarily activated during the Lying Leg Curl exercise?
+141,What type of activity is the Dumbbell Hammer Curl exercise?
+141,What equipment is needed for the Dumbbell Hammer Curl?
+141,Which part of the body does the Dumbbell Hammer Curl target?
+141,What type of movement is involved in the Dumbbell Hammer Curl?
+141,What muscle groups are activated during the Dumbbell Hammer Curl?
+142,What type of strength activity is the Landmine Squat Press?
+142,What equipment is required for the Landmine Squat Press?
+142,Which body part does the Landmine Squat Press target?
+142,What type of motion is involved in the Landmine Squat Press?
+142,What muscle groups are primarily activated during the Landmine Squat Press?
+143,What exercise should I perform to target my biceps and forearms?
+143,What type of activity is the Zottman Curl classified as?
+143,What equipment do I need to perform the Zottman Curl?
+143,Which part of my body will the Zottman Curl primarily work?
+143,How should I hold the dumbbells and move my wrists during the Zottman Curl?
+144,What is the name of the exercise that focuses on the core using a cable machine?
+144,What type of activity is the Cable Crunch?
+144,What piece of equipment is required for the Cable Crunch?
+144,Which body part does the Cable Crunch primarily target?
+144,"What should I do to perform the Cable Crunch, specifically with elbow and back movement?"
+145,What type of exercise is Stability Ball Pike?
+145,What equipment is needed for Stability Ball Pike?
+145,What part of the body does Stability Ball Pike target?
+145,What is the type of the Stability Ball Pike exercise?
+145,Which muscle groups are activated during Stability Ball Pike?
+146,What type of exercise is Standing Calf Raise?
+146,What type of equipment is needed for this exercise?
+146,Which part of the body does Standing Calf Raise mainly focus on?
+146,Can you describe the type of movement for Standing Calf Raise?
+146,What is the correct form for raising and lowering the heels during this exercise?
+147,What is the name of the exercise that primarily targets the triceps using a cable machine?
+147,What type of activity is the Cable Kickback exercise?
+147,What equipment is required for the Cable Kickback exercise?
+147,Which part of the body does the Cable Kickback exercise focus on?
+147,What is the correct form for performing the Cable Kickback exercise?
+148,What type of activity is the Spider Push-Up exercise?
+148,What type of equipment is required for Spider Push-Ups?
+148,Which body part primarily benefits from Spider Push-Ups?
+148,What type of push-up is a Spider Push-Up?
+148,"Which muscle groups are activated during Spider Push-Ups, and how should the exercise be performed?"
+149,What strength exercise involves using a resistance band and targets the upper body?
+149,What type of equipment is required for the Resistance Band Chest Press?
+149,Which part of the body does the Resistance Band Chest Press primarily work?
+149,What type of movement is involved in the Resistance Band Chest Press?
+149,Which muscle groups are activated during the Resistance Band Chest Press?
+150,What is the name of the strength exercise that primarily uses a dumbbell and targets the upper body?
+150,Which type of activity is the One-Arm Dumbbell Row categorized as?
+150,What equipment is required for this particular exercise?
+150,What part of the body does the One-Arm Dumbbell Row mainly focus on?
+150,Which muscle groups are primarily activated during this exercise: Latissimus Dorsi and Biceps?
+151,What type of strength exercise is the Incline Chest Press?
+151,What equipment is needed for the Incline Chest Press?
+151,Which part of the body does the Incline Chest Press primarily target?
+151,What kind of push motion is involved in the Incline Chest Press?
+151,Which muscle groups are primarily activated during the Incline Chest Press?
+152,What exercise should I use a machine for?
+152,What type of activity is the Machine Preacher Curl?
+152,What equipment is needed for this exercise?
+152,Which part of the body does the Machine Preacher Curl focus on?
+152,What type of movement is involved in the Machine Preacher Curl?
+152,What muscle groups are activated during the Machine Preacher Curl?
+152,How do I properly perform the Machine Preacher Curl?
+153,What type of exercise is Hanging Knee Raises?
+153,What type of equipment is needed for Hanging Knee Raises?
+153,What part of the body does Hanging Knee Raises target?
+153,What is the type of hold for Hanging Knee Raises?
+153,What muscle groups are activated during Hanging Knee Raises and how should the exercise be performed?
+154,What exercise should I perform using a decline bench and dumbbells?
+154,What type of physical activity is the Decline Dumbbell Press categorized as?
+154,What equipment is required for the Decline Dumbbell Press?
+154,Which part of the body does the Decline Dumbbell Press primarily target?
+154,Which muscle groups will benefit from doing the Decline Dumbbell Press exercise?
+155,What is the name of the exercise that focuses on the glutes and hamstrings?
+155,What type of activity is the Glute Kickback classified as?
+155,"What equipment, if any, is required for this exercise?"
+155,Which part of the body does the Glute Kickback target?
+155,What is the motion and muscle engagement for the Glute Kickback?
+156,What is the name of the exercise that primarily targets the upper body using a machine?
+156,What type of physical activity is the Machine Chest Press classified as?
+156,What equipment is required for performing the Machine Chest Press?
+156,Which muscle groups does the Machine Chest Press mainly activate?
+156,What is the correct starting position for the Machine Chest Press and how should you move the handles?
+157,What type of exercise is a Single-Leg Squat?
+157,What equipment do I need for a Single-Leg Squat?
+157,What part of the body does a Single-Leg Squat focus on?
+157,What type of movement is involved in a Single-Leg Squat?
+157,What muscle groups are activated during a Single-Leg Squat?
+158,What is the name of the exercise that involves using dumbbells in a high plank position?
+158,What type of activity is the Push-Up to Row exercise categorized as?
+158,What equipment is needed to perform the Push-Up to Row exercise?
+158,Which part of the body does the Push-Up to Row exercise primarily target?
+158,"What muscles are activated during the Push-Up to Row exercise, involving push and pull movements?"
+159,What is the name of the exercise that focuses on the upper body using the Smith Machine?
+159,What type of activity is the Smith Machine Row exercise?
+159,What equipment is required to perform the Smith Machine Row exercise?
+159,Which body part does the Smith Machine Row exercise primarily target?
+159,What types of movements and muscle groups are activated during the Smith Machine Row exercise?
+160,What type of strength exercise is a Lat Pullover?
+160,What equipment is required for a Lat Pullover?
+160,Which part of the body does a Lat Pullover target?
+160,What type of pull movement is involved in a Lat Pullover?
+160,Which muscle groups are primarily activated during a Lat Pullover?
+161,What exercise should I use the Smith Machine for?
+161,What type of physical activity is the Smith Machine Shoulder Press?
+161,What equipment do I need for this exercise?
+161,Which part of the body does the Smith Machine Shoulder Press target?
+161,What type of push movement is the Smith Machine Shoulder Press and what muscle groups does it activate?
+162,What exercise involves standing sideways to a cable machine and pulling the handle down in a chopping motion?
+162,Which type of activity is the Cable Woodchopper classified as?
+162,What kind of equipment is needed for this exercise?
+162,Which part of the body does the Cable Woodchopper primarily target?
+162,What muscle groups are activated during this twist exercise?
+163,What exercise can I do on a machine to strengthen my lower back and glutes?
+163,Which type of activity is the Machine Back Extension classified as?
+163,What part of the body does the Machine Back Extension primarily target?
+163,What is the correct form for performing the Machine Back Extension?
+163,What muscle groups are primarily activated during the Machine Back Extension?
+164,What is the name of the exercise that targets the hamstrings using a machine?
+164,What type of activity is the Prone Leg Curl exercise?
+164,What equipment is needed for the Prone Leg Curl exercise?
+164,What part of the body does the Prone Leg Curl exercise focus on?
+164,How do I perform the Prone Leg Curl exercise while lying face down on the machine?
+165,What exercise should I perform to primarily work out my deltoids and triceps?
+165,What type of physical activity is the Seated Dumbbell Press classified as?
+165,What equipment do I need to perform the Seated Dumbbell Press?
+165,Which part of the body does the Seated Dumbbell Press target?
+165,What is the correct form for performing the Seated Dumbbell Press?
+166,What is the name of the exercise that requires a weight plate?
+166,What type of activity is the Weighted Plank
+166,What equipment is needed for the Weighted Plank
+166,What part of the body does the Weighted Plank target
+166,What muscle groups are activated during the Weighted Plank and how should the exercise be performed
+167,What type of exercise is the Step Mill?
+167,On what type of equipment is the Step Mill performed?
+167,Which part of the body does the Step Mill target?
+167,What kind of activity is the Step Mill categorized as?
+167,What muscle groups are activated during the Step Mill exercise?
+168,What exercise should I perform using a resistance band for upper body strength?
+168,What type of activity is the Standing Resistance Band Row?
+168,What equipment do I need for this exercise?
+168,Which part of my body does the Standing Resistance Band Row target?
+168,What muscle groups will be activated during the Standing Resistance Band Row?
+169,What type of activity is the Dumbbell Lunge?
+169,What equipment is needed for this exercise?
+169,Which part of the body does the Dumbbell Lunge target?
+169,What kind of push movement is involved in this exercise?
+169,What muscle groups are primarily activated during the Dumbbell Lunge?
+170,What is the name of the exercise that targets the biceps and forearms with an overhand grip?
+170,What type of activity is the Reverse Curl exercise?
+170,What equipment is needed for the Reverse Curl?
+170,Which part of the body does the Reverse Curl focus on?
+170,What is the motion I should follow to do the Reverse Curl correctly?
+171,What is the name of the exercise that uses a resistance band with a pull-up bar?
+171,What type of activity is the Banded Pull-Up categorized as?
+171,What equipment is required for a Banded Pull-Up?
+171,Which part of the body does the Banded Pull-Up primarily target?
+171,What types of muscle groups are activated during the Banded Pull-Up?
+171,"How do I perform the Banded Pull-Up, including the placement of the resistance band and my body?"
+172,"What is the name of the exercise that targets the rear deltoids, trapezius, and rhomboids?"
+172,What type of activity is the Cable Face Pull?
+172,What equipment do I need for this exercise?
+172,Which part of the body does the Cable Face Pull primarily focus on?
+172,"What is the correct way to perform the Cable Face Pull, starting with the cable pulley?"
+173,What exercise is referred to as Turkish Get-Up?
+173,What type of physical activity is the Turkish Get-Up?
+173,What equipment is required for performing the Turkish Get-Up?
+173,Which body parts are mainly involved in the Turkish Get-Up?
+173,"What is the correct form for the Turkish Get-Up, including standing up and returning to lying while keeping the kettlebell above the head?"
+174,What exercise is called 'Weighted Russian Twists' and falls under the strength type of activity?
+174,What equipment is needed for the 'Weighted Russian Twists' exercise?
+174,Which part of the body is targeted during the 'Weighted Russian Twists' exercise?
+174,What type of movement does the 'Weighted Russian Twists' exercise involve?
+174,Which muscle groups are activated during the 'Weighted Russian Twists' exercise?
+175,What is the name of the exercise that primarily targets the deltoids using a cable machine?
+175,What type of activity is the Cable Front Raise categorized as?
+175,What equipment is required for performing the Cable Front Raise exercise?
+175,Which part of the body does the Cable Front Raise exercise focus on?
+175,"What is the correct movement for the Cable Front Raise, starting from the initial position with the handle at the low pulley?"
+176,What type of exercise is Reverse Crunch?
+176,What equipment is required for Reverse Crunch?
+176,Which part of the body does Reverse Crunch target?
+176,What is the type of movement involved in Reverse Crunch?
+176,Which muscle groups are primarily activated during Reverse Crunch?
+177,What is the name of the exercise that targets the triceps using a cable machine?
+177,What type of physical activity is the Cable Tricep Kickback?
+177,What equipment is required for this exercise?
+177,Which part of the body does the Cable Tricep Kickback mainly focus on?
+177,"How do I correctly perform the Cable Tricep Kickback, starting from the setup position?"
+178,What is the name of the exercise?
+178,What type of activity is the Copenhagen Plank classified as?
+178,What type of equipment is required for this exercise?
+178,Which body part does the Copenhagen Plank target?
+178,What type of movement is involved in this exercise?
+179,What type of exercise is the Smith Machine Incline Press?
+179,What category of activity does this exercise fall under?
+179,What equipment is needed for this exercise?
+179,Which part of the body does this exercise mainly target?
+179,What muscle groups are activated during the Smith Machine Incline Press?
+180,What exercise can I do on a cable machine for upper body strength?
+180,Which grip should I use for the cable lat pulldown exercise?
+180,What is the starting position for the cable lat pulldown exercise?
+180,Which muscles are primarily activated during the cable lat pulldown exercise?
+180,What is the correct movement pattern for the cable lat pulldown exercise?
+181,What is the name of the exercise that targets the lower body using a cable machine?
+181,What type of activity is the Cable Side Lunge?
+181,What piece of equipment is required for this exercise?
+181,What muscle groups are primarily activated during the Cable Side Lunge?
+181,"How do I perform the Cable Side Lunge correctly, from the starting position to the side lunge and back?"
+182,What is the name of the exercise that focuses on upper body pull motion using dumbbells?
+182,What type of physical activity is the Dumbbell Bent-Over Row categorized under?
+182,What equipment is required for performing the Dumbbell Bent-Over Row exercise?
+182,Which body part primarily benefits from the Dumbbell Bent-Over Row exercise?
+182,"What muscle groups are mostly activated during the Dumbbell Bent-Over Row exercise, and how should the motion be performed according to the instructions?"
+183,What type of exercise is a Lateral Lunge?
+183,What equipment is needed for a Lateral Lunge?
+183,Which part of the body does a Lateral Lunge target?
+183,What type of movement is involved in a Lateral Lunge?
+183,Which muscle groups are activated during a Lateral Lunge?
+184,What exercise should I use the rowing machine for?
+184,What type of activity is the Seated Machine Row?
+184,What part of my body does the Seated Machine Row target?
+184,What type of movement is involved in this exercise?
+184,Which muscle groups are primarily activated during the Seated Machine Row?
+185,What exercise targets my core using a decline bench and bodyweight?
+185,What type of activity is the Decline Russian Twist?
+185,What muscle groups does the Decline Russian Twist activate?
+185,What is the correct form for the Decline Russian Twist?
+185,"How do I perform the Decline Russian Twist, step by step?"
+186,What strength exercise involves lifting a barbell from the ground to my chest?
+186,What type of equipment is needed for the Deadlift High Pull?
+186,Which body part is primarily targeted during this exercise?
+186,What type of motion is involved in this exercise?
+186,What muscle groups are mainly activated when doing Deadlift High Pulls?
+187,What is the name of the exercise that targets the Latissimus Dorsi and Biceps using a reverse grip on a cable machine?
+187,What type of activity is the Reverse Grip Lat Pulldown considered?
+187,What equipment is required for performing the Reverse Grip Lat Pulldown exercise?
+187,Which part of the body does the Reverse Grip Lat Pulldown mainly target?
+187,"What is the motion involved in the Reverse Grip Lat Pulldown exercise, starting from the initial position until the end?"
+188,What is the name of the exercise that focuses on the lower body using a cable machine?
+188,What type of activity is the Cable Lateral Lunge classified as?
+188,What equipment is needed to perform the Cable Lateral Lunge?
+188,Which muscle groups are primarily activated during the Cable Lateral Lunge?
+188,"How should I properly perform the Cable Lateral Lunge, starting from attaching the handle?"
+189,What type of activity is a Pike Push-Up?
+189,What type of equipment is needed for a Pike Push-Up?
+189,Which body part does a Pike Push-Up target?
+189,What type of push exercise is a Pike Push-Up?
+189,Which muscle groups does a Pike Push-Up activate?
+190,"What is the name of the exercise that works out the glutes, shoulders, and triceps?"
+190,What type of activity is the One-Arm Dumbbell Snatch?
+190,What equipment is needed for this exercise?
+190,Which body part is primarily targeted in this exercise?
+190,What is the correct motion for performing the One-Arm Dumbbell Snatch?
+191,What is the name of the exercise that targets the lower body using a cable machine?
+191,What type of activity is the Cable Front Squat primarily categorized under?
+191,What equipment is required for performing the Cable Front Squat?
+191,"Which muscle groups, including those in the lower body, are activated during this exercise?"
+191,How should I position and hold the rope handle when performing the Cable Front Squat?
+192,What type of activity is the Tire Flip exercise?
+192,What type of equipment is needed for the Tire Flip exercise?
+192,Which body part does the Tire Flip exercise primarily target?
+192,What kind of motion is required in the Tire Flip exercise?
+192,Which muscle groups does the Tire Flip exercise activate?
+193,What exercise should I perform using a Smith machine for lower body strength?
+193,What type of activity is a Smith Machine Calf Raise?
+193,What equipment do I need to do Smith Machine Calf Raises?
+193,Which part of the body does the Smith Machine Calf Raise target?
+193,How do I correctly perform a Smith Machine Calf Raise?
+194,What exercise should I perform that focuses on lower body strength using only bodyweight?
+194,What type of push exercise can I do using just my bodyweight for lower body?
+194,Which muscle groups will be activated if I do a pistol squat to box?
+194,How do I correctly perform a pistol squat to box?
+194,Can you provide instructions for doing a pistol squat with a box?
+195,What is the name of the exercise that targets the upper body using a cable machine?
+195,What type of activity is the Standing Chest Fly
+195,What equipment is needed for the Standing Chest Fly exercise?
+195,"Which muscle groups, specifically, are activated during this exercise?"
+195,What are the steps to correctly perform the Standing Chest Fly exercise?
+196,"What is the name of the exercise that activates the Glutes, Quadriceps, Hamstrings, and Shoulders?"
+196,"What type of activity is Sled Drag, is it Cardio or Strength?"
+196,What equipment is needed for this exercise?
+196,Which body part(s) does Sled Drag focus on?
+196,"What are the steps to perform Sled Drag, including the attachment of the harness?"
+197,What is the name of the exercise that targets the biceps and forearms using a cable machine?
+197,What type of activity is the Cable Hammer Curl classified as?
+197,What equipment is required for this exercise?
+197,Which part of the body does the Cable Hammer Curl mainly focus on?
+197,How should I perform the Cable Hammer Curl with a neutral grip?
+198,"What exercise should I perform facing away from a cable machine with the handle attached to the low pulley, extending it overhead until my arms are fully extended?"
+198,What type of activity is the Cable Tricep Overhead Extension?
+198,What equipment is needed for this exercise?
+198,Which part of the body does the Cable Tricep Overhead Extension primarily target?
+198,What muscle groups are activated during this exercise?
+199,What is the name of the exercise that targets the upper body using a cable machine?
+199,What type of activity is the Seated Cable Row?
+199,What equipment is used for this exercise?
+199,"Which muscle groups, including the arms, are activated during the Seated Cable Row?"
+199,What is the correct form for the Seated Cable Row exercise?
+200,What exercise should I perform to primarily work out my triceps?
+200,What type of activity is the Lying Dumbbell Tricep Extension?
+200,What equipment do I need for this exercise?
+200,Which part of the body does this exercise target?
+200,What is the movement I need to do for the Lying Dumbbell Tricep Extension?
+201,What type of activity is a Weighted Pull-Up?
+201,What equipment is needed for a Weighted Pull-Up?
+201,Which part of the body does a Weighted Pull-Up target?
+201,What type of pull is a Weighted Pull-Up?
+201,Which muscle groups are activated during a Weighted Pull-Up?
+202,What exercise targets the Latissimus Dorsi and Biceps using an incline bench and dumbbells?
+202,What type of activity is Incline Dumbbell Row considered?
+202,What equipment is needed for Incline Dumbbell Row?
+202,Which part of the body does Incline Dumbbell Row focus on?
+202,What is the movement and intended muscle engagement for Incline Dumbbell Row?
+203,What is the name of the exercise that targets the upper body using a machine with a wide grip?
+203,What type of activity is the Machine Lat Pulldown classified as?
+203,What equipment is required for performing the Machine Lat Pulldown?
+203,Which part of the body does the Machine Lat Pulldown mainly focus on?
+203,What are the muscle groups activated while doing the Machine Lat Pulldown exercise?
+204,What exercise should I perform using a cable machine that targets the upper body and activates the Latissimus Dorsi and Biceps?
+204,What type of activity is the One-Arm Cable Row exercise?
+204,What body part does the One-Arm Cable Row primarily focus on?
+204,Can you describe the type of pulling motion involved in the One-Arm Cable Row exercise?
+204,What is the correct position and movement for performing the One-Arm Cable Row exercise?
+205,What is the name of the exercise that focuses on the upper body?
+205,What type of activity is the Face Pull exercise?
+205,What equipment is needed to perform the Face Pull exercise?
+205,"Which muscle groups, other than the upper body, are activated during the Face Pull exercise?"
+205,"How should I perform the Face Pull exercise, starting from the cable attachment?"
+206,What type of exercise is the Dumbbell Bench Press?
+206,What equipment is needed for the Dumbbell Bench Press?
+206,Which part of the body does the Dumbbell Bench Press target?
+206,What type of push motion does the Dumbbell Bench Press involve?
+206,What muscle groups are activated during the Dumbbell Bench Press?
