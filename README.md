@@ -197,7 +197,69 @@ You can also make it randomly select a question from our ground truth dataset:
 pipenv run python cli.py --random
 ```
 
+## Using requests
+When the application is running, you can use requests to send questions—use test.py for testing it:
+```
+pipenv run python test.py
+```
+It will pick a random question from the ground truth dataset and send it to the app.
 
+## CURL
+You can also use curl for interacting with the API:
+```
+URL=http://localhost:5000
+QUESTION="Is the Lat Pulldown considered a strength training activity, and if so, why?"
+DATA='{
+    "question": "'${QUESTION}'"
+}'
+
+curl -X POST \
+    -H "Content-Type: application/json" \
+    -d "${DATA}" \
+    ${URL}/question
+
+```
+You will see something like the following in the response:
+```
+{
+    "answer": "Yes, the Lat Pulldown is considered a strength training activity. This classification is due to it targeting specific muscle groups, specifically the Latissimus Dorsi and Biceps, which are essential for building upper body strength. The exercise utilizes a machine, allowing for controlled resistance during the pulling action, which is a hallmark of strength training.",
+    "conversation_id": "4e1cef04-bfd9-4a2c-9cdd-2771d8f70e4d",
+    "question": "Is the Lat Pulldown considered a strength training activity, and if so, why?"
+}
+```
+Sending feedback:
+```
+ID="4e1cef04-bfd9-4a2c-9cdd-2771d8f70e4d"
+URL=http://localhost:5000
+FEEDBACK_DATA='{
+    "conversation_id": "'${ID}'",
+    "feedback": 1
+}'
+
+curl -X POST \
+    -H "Content-Type: application/json" \
+    -d "${FEEDBACK_DATA}" \
+    ${URL}/feedback
+```
+After sending it, you'll receive the acknowledgement:
+```
+{
+    "message": "Feedback received for conversation 4e1cef04-bfd9-4a2c-9cdd-2771d8f70e4d: 1"
+}
+```
+## Code
+The code for the application is in the fitness_assistant folder:
+
+* [app.py](src/app.py) - the Flask API, the main entrypoint to the application
+* [rag.py](src/rag.py) - the main RAG logic for building the retrieving the data and building the prompt
+* [ingest.py](src/ingest.py) - loading the data into the knowledge base
+minsearch.py - an in-memory search engine
+* [db.py](src/db.py) - the logic for logging the requests and responses to postgres
+* [db_prep.py](src/db_prep.py) - the script for initializing the database
+We also have some code in the project root directory:
+
+* [test.py](test.py) - select a random question for testing
+* [cli.py](cli.py) - interactive CLI for the APP
 
 
 ## Interface
@@ -205,14 +267,14 @@ We use Flask for serving the application as an API.
 
 Refer to the ["Using the Application"] section for examples on how to interact with the application.
 
-Ingestion
-
 ## Ingestion
-The ingestion script is in [ingest.py].
+The ingestion script is in [ingest.py](src/ingest.py).
 
 Since we use an in-memory database, minsearch, as our knowledge base, we run the ingestion script at the startup of the application.
 
-It's executed inside rag.py when we import it.
+It's executed inside [rag.py](src/rag.py) when we import it.
+
+## Experiments
 
 
 
