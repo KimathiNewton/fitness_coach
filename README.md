@@ -1,4 +1,9 @@
-# Fitness Assistant
+# Fitness assistant
+
+<p align="center">
+  <img src="images/banner.jpg">
+</p>
+
 Staying consistent with fitness routines is challenging, especially for beginners. Gyms can be intimidating, and personal trainers aren't always available.
 
 The Fitness Assistant provides a conversational AI that helps users choose exercises and find alternatives, making fitness more manageable.
@@ -84,7 +89,6 @@ pipenv run pgcli -h localhost -U your_username -d course_assistant -W
 ```
 
 You can view the schema using the \d command:
-
 ```bash
 \d conversations;
 ```
@@ -276,6 +280,120 @@ It's executed inside [rag.py](src/rag.py) when we import it.
 
 ## Experiments
 
+For experiments, we use Jupyter notebooks.
+They are in the [`notebooks`](notebooks/) folder.
+
+To start Jupyter, run:
+
+```bash
+cd notebooks
+pipenv run jupyter notebook
+```
+
+We have the following notebooks:
+
+- [`rag-test.ipynb`](notebooks/rag-test.ipynb): The RAG flow and evaluating the system.
+- [`evaluation-data-generation.ipynb`](notebooks/evaluation-data-generation.ipynb): Generating the ground truth dataset for retrieval evaluation.
+
+### Retrieval evaluation
+
+The basic approach - using `minsearch` without any boosting - gave the following metrics:
+
+- Hit rate: 94%
+- MRR: 82%
+
+The improved version (with tuned boosting):
+
+- Hit rate: 94%
+- MRR: 90%
+
+The best boosting parameters:
+
+```python
+boost = {
+    'exercise_name': 2.11,
+    'type_of_activity': 1.46,
+    'type_of_equipment': 0.65,
+    'body_part': 2.65,
+    'type': 1.31,
+    'muscle_groups_activated': 2.54,
+    'instructions': 0.74
+}
+```
+
+### RAG flow evaluation
+
+Used the LLM-as-a-Judge metric to evaluate the quality
+of our RAG flow.
+
+For `gpt-4o-mini`, in a sample with 200 records, we had:
+
+- 167 (83%) `RELEVANT`
+- 30 (15%) `PARTLY_RELEVANT`
+- 3 (1.5%) `NON_RELEVANT`
+
+Also tested `gpt-4o`:
+
+- 168 (84%) `RELEVANT`
+- 30 (15%) `PARTLY_RELEVANT`
+- 2 (1%) `NON_RELEVANT`
+
+The difference is minimal, so decided to go with `gpt-4o-mini`.
+
+## Monitoring
+
+We use Grafana for monitoring the application. 
+
+It's accessible at [localhost:3000](http://localhost:3000):
+
+- Login: "admin"
+- Password: "admin"
+
+### Dashboards
+
+<p align="center">
+  <img src="images/dash.png">
+</p>
+
+The monitoring dashboard contains several panels:
+
+1. **Last 5 Conversations (Table):** Displays a table showing the five most recent conversations, including details such as the question, answer, relevance, and timestamp. This panel helps monitor recent interactions with users.
+2. **+1/-1 (Pie Chart):** A pie chart that visualizes the feedback from users, showing the count of positive (thumbs up) and negative (thumbs down) feedback received. This panel helps track user satisfaction.
+3. **Relevancy (Gauge):** A gauge chart representing the relevance of the responses provided during conversations. The chart categorizes relevance and indicates thresholds using different colors to highlight varying levels of response quality.
+4. **OpenAI Cost (Time Series):** A time series line chart depicting the cost associated with OpenAI usage over time. This panel helps monitor and analyze the expenditure linked to the AI model's usage.
+5. **Tokens (Time Series):** Another time series chart that tracks the number of tokens used in conversations over time. This helps to understand the usage patterns and the volume of data processed.
+6. **Model Used (Bar Chart):** A bar chart displaying the count of conversations based on the different models used. This panel provides insights into which AI models are most frequently used.
+7. **Response Time (Time Series):** A time series chart showing the response time of conversations over time. This panel is useful for identifying performance issues and ensuring the system's responsiveness.
+
+### Setting up Grafana
+
+All Grafana configurations are in the [`grafana`](grafana/) folder:
+
+- [`init.py`](grafana/init.py) - for initializing the datasource and the dashboard.
+- [`dashboard.json`](grafana/dashboard.json) - the actual dashboard .
+
+To initialize the dashboard, first ensure Grafana is
+running (it starts automatically when you do `docker-compose up`).
+
+Then run:
+
+```bash
+pipenv shell
+
+cd grafana
+
+# make sure the POSTGRES_HOST variable is not overwritten 
+env | grep POSTGRES_HOST
+
+python init.py
+```
+
+Then go to [localhost:3000](http://localhost:3000):
+
+- Login: "admin"
+- Password: "admin"
+
+When prompted, keep "admin" as the new password.
 
 
 
