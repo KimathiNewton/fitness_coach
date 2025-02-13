@@ -1,8 +1,9 @@
 # Fitness assistant
 
 <p align="center">
-  <img src="images/banner.jpg">
+  <img src="Images/banner.jpg">
 </p>
+
 
 Staying consistent with fitness routines is challenging, especially for beginners. Gyms can be intimidating, and personal trainers aren't always available.
 
@@ -352,7 +353,7 @@ It's accessible at [localhost:3000](http://localhost:3000):
 ### Dashboards
 
 <p align="center">
-  <img src="images/dash.png">
+  <img src="Images/dash.png">
 </p>
 
 The monitoring dashboard contains several panels:
